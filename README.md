@@ -9,7 +9,7 @@ Front-end developer looking for the first experience in the job market. I have d
 ___
 
 
-- 🌱 I’m currently learning about **JavaScript, Angular, Bootstrap, TypeScript, ReactJS**
+- 🌱 I’m currently learning about **JavaScript, Angular, Bootstrap, TypeScript, ReactJS** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 👯 I’m looking to collaborate on [Currículo Devops](https://github.com/treinalinux/Curriculo-DevOps)
 - 📫 How to reach me: [Linkedin](https://bit.ly/3qC4tLP)
 - 😄 Pronouns: Ela / She / Ella
